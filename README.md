@@ -1,16 +1,16 @@
+# Demo1 Project
 
-# Project Title
-
-A brief description of your project.
+This is my demo1 project for practicing Git and GitHub.
 
 ## Installation
 
-Instructions for installing the project.
+Clone the project to your computer.
 
 ## Usage
 
-Instructions for using the project.
+This project is used to practice Git commands and version control.
 
 ## Contributing
 
-Instructions for contributing to the project.
+This is a practice project for my Version Control class.
+
